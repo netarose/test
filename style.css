@@ -27,6 +27,7 @@ h1
 	margin-left: 40px;
 	font-style: italic;
 	text-decoration: underline;
+	text-shadow: 3px 2px black;
 }
 a:hover {
   color: green;
